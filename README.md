@@ -22,3 +22,6 @@ python app.py
 ![](screenshots/instructions.png)
 
 ![](screenshots/select_cluster.png)
+
+
+![](screenshots/severityfilter.png)
