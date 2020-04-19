@@ -18,5 +18,7 @@ python app.py
 
 #### Application Overview
 ![](screenshots/overview.png)
-![](screenshots/instructions1.png)
+
+![](screenshots/instructions.png)
+
 ![](screenshots/selected_cluster.png)
