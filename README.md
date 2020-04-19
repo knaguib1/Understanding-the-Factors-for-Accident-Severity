@@ -3,9 +3,8 @@ This is a demo of our implementation of a density based clustering algorithm to 
 
 The package contains datastes for five different states used in the dashboard, required python libraries, and python files for running the dashaboard. The dashboard was built using Dash for the main server and interactive components, and Plotly Python to create the interactive plots. 
 
-##Getting Started
-
-####Running the app locally
+## Getting Started
+#### Running the app locally
 Downlaod and unzip the project folder, then install the requirements with pip.
 
 ```
@@ -17,6 +16,5 @@ Run the app.
 python app.py
 ```
 
-####App Overivew
-
+#### Application Overview
 ![](screenshots/DBSCAN-app-1.png)
