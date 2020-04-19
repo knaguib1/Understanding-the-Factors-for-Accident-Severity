@@ -17,8 +17,8 @@ python app.py
 ```
 
 #### Application Overview
-![app overview](screenshots/overview.png)
+![](screenshots/overview.png)
 
-![instructions](screenshots/instructions.png)
+![](screenshots/instructions.png)
 
-![selecting clusters](screenshots/selected_cluster.png)
+![](screenshots/select_cluster.png)
