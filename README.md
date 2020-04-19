@@ -1,10 +1,19 @@
-# CSE6242-Team-233-Project
-Understanding the Factors for Accident Severity​
+# Team 233 Project: Understanding the Factors for Accident Severity.
+This is a demo of our implementation of a density based clustering algorithm to identify hotspots prone to many and severe accidents using Hvesine distance metric. The demo focuses on interactive visualizing DBSCAN for the top 20 clusters in five different states using 50 and 100 meter radius epsilon overlayed on a map. There are filters on the left side of teh app to update the graphs.
 
-team233 presentation google slides link:
-https://drive.google.com/file/d/1gos-9Ei7l2pqv2AlIRhqnMuBNoZ6KPzX/view?usp=sharing
+The package contains datastes for five different states used in the dashboard, required python libraries, and python files for running the dashaboard. The dashboard was built using Dash for the main server and interactive components, and Plotly Python to create the interactive plots. 
 
+##Getting Started
+####Running the app locally
+Downlaod and unzip the project folder, then install the requirements with pip.
 
-team233 final report link:
-https://www.overleaf.com/project/5e53ba1c436caa0001b4fe4a
-https://docs.google.com/document/d/1A4mTcbAXlU3-5orxeGHHiKlj3J6IySZANn9zhsZM_uk/edit?usp=sharing
+```
+pip install -r requirements.txt
+```
+
+Run the app.
+```
+python app.py
+```
+
+##Execution
