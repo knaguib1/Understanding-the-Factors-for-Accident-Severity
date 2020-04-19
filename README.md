@@ -5,7 +5,7 @@ The package contains datasets for five different states used in the dashboard, r
 
 ## Getting Started
 #### Running the app locally
-Downlaod and unzip the project folder, then install the requirements with pip.
+Download and unzip the project folder, then install the requirements with pip.
 
 ```
 pip install -r requirements.txt
