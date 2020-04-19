@@ -37,9 +37,8 @@ The dashboard consists of inputs to load the dataset, filters for drilldowns, th
 2. Apply desired filters to update the visualization. 
 3. Hover over datapoints in the graphs to display information. 
 
-#### Selecting filters
 **Selecting clusters** updates the cluster map to display the accident severities within the clusters as well as the heatmap to gain a deeper insight into the selected cluster. 
 ![](screenshots/select_cluster.png)
 
-
+**Filtering severities** will update the cluster map and the heatmaps to reflect the changes.  
 ![](screenshots/severityfilter.png)
