@@ -19,8 +19,10 @@ python app.py
 #### Application Overview
 ![](screenshots/overview.png)
 
+#### Instructions
 ![](screenshots/instructions.png)
 
+#### Selecting filters
 ![](screenshots/select_cluster.png)
 
 
