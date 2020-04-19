@@ -17,4 +17,4 @@ python app.py
 ```
 
 #### Application Overview
-![](screenshots/DBSCAN-app-1.png)
+![](screenshots/overview.png)
